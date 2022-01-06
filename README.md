@@ -1,10 +1,13 @@
 Server Seating System (Python Tkinter)
+
 Creator: Daniel Rivas-Valencia
 
 The system's operation works in a simple fashion with a layout as follows:
 
 Sections --> Number of sections in the establishment
+
 Tables --> Number of tables in the establishment
+
 Seats --> Number of seats in the establishment
 
 Each is inputed manually. 
